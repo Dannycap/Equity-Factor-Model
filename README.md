@@ -6,9 +6,13 @@ Sections:
 
 Data Preparation:
 
-Fetch financial data from the Fama-French database, including Emerging Markets 6 Portfolios and Emerging 5 Factors. Data Analysis:
+Fetch financial data from the Fama-French database, including Emerging Markets 6 Portfolios and Emerging 5 Factors. 
 
-Calculate various financial metrics and statistics, such as cumulative returns, standard deviation, Sharpe ratio, drawdowns, covariance, correlation, beta values, and skewness. Data Visualization:
+Data Analysis:
+
+Calculate various financial metrics and statistics, such as cumulative returns, standard deviation, Sharpe ratio, drawdowns, covariance, correlation, beta values, and skewness. 
+
+Data Visualization:
 
 Create visualizations of the financial data, including line plots, ridgeline plots, heatmaps, and drawdown plots using 'matplotlib' and 'seaborn' libraries. Regression Analysis:
 
