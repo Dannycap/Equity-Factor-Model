@@ -18,7 +18,9 @@ Create visualizations of the financial data, including line plots, ridgeline plo
 
 Perform linear regression analysis to understand the relationships between independent variables (Fama-French factors) and the dependent variable ('Emerging_SMALL_HiPRIOR'). Data Output:
 
-Store calculated metrics and statistics in Pandas DataFrames. Print the summary of the regression analysis to assess variable relationships. Data Storage:
+Store calculated metrics and statistics in Pandas DataFrames. Print the summary of the regression analysis to assess variable relationships.
+
+Data Storage:
 
 Store analysis results and visualizations in DataFrames for further reference. Save some visualizations as image files with specific DPI settings. This code offers a holistic analysis of financial data, enabling the assessment of risk, returns, and relationships between factors and asset returns in emerging markets.
 
